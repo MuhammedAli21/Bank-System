@@ -30,4 +30,6 @@ int main() {
 	e.Printinfo();
 	a.Printinfo();
 
+    cout << "hello" << endl; 
+
 }
